@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_film"
+        android:icon="@drawable/ic_personal_video_black_24dp"
+        android:title="@string/title_film" />
+    <item
+        android:id="@+id/navigation_tv_show"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        android:title="@string/title_tv" />
+</menu>
